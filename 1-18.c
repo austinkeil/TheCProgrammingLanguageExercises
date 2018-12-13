@@ -3,6 +3,8 @@
 
 int GetStrippedLine(char line[], int lim); 
 
+// This program removes trailing blanks and tabs from each line of input.
+// It completely deletes entirely blank lines.
 int main()
 {
   int len;         

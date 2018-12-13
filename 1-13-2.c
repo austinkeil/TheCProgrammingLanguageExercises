@@ -3,6 +3,8 @@
 #define   IN    1
 #define   OUT   0
 
+// This program prints a verticle histogram of the lengths of words in its input.
+// For a horizontal histogram, see 1-13-1.c
 int main()
 {
   int c, high;

@@ -3,6 +3,7 @@
 
 int getline2(char line[]); 
 
+// This program prints all input lines longer than 80 characters.
 int main()
 {
   int len;         

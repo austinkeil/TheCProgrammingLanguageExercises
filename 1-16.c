@@ -3,6 +3,8 @@
 
 int getline2(char line[]); 
 
+// This program prints the length of arbitrarily long input lines,
+// and as much as possible of the text.
 int main()
 {
   int len;         
