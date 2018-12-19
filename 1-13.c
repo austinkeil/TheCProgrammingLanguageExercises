@@ -1,10 +1,19 @@
+/**
+ * Author: Austin Keil
+ *
+ * Solution to Exercise 1-13.
+ *
+ * Write a program to print a histogram of the lengths of
+ * words in its input. It is easy to draw the histogram with
+ * the bars horizontal; a vertical orientation is more
+ * challenging. (See 1-13-2 for vertical histogram).
+ */
+
 #include <stdio.h>
 
 #define   IN    1
 #define   OUT   0
 
-// This program prints a horizontal histogram of lengths of words in its input.
-// For a verticle histogram, see 1-13-2.c
 int main()
 {
   int c, count;

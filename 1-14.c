@@ -1,8 +1,14 @@
+/**
+ * Author: Austin Keil
+ *
+ * Solution to Exercise 1-14.
+ *
+ * Write a program to print a histogram of the frequencies of
+ * different characters in its input.
+ */
+
 #include <stdio.h>
 
-// This program prints a histogram of the frequencies of different 
-// characters in its input. ASCII characters are expected as input and 
-// output will depend on your terminal's character encoding.
 int main()
 {
   int c;

@@ -1,10 +1,19 @@
+/**
+ * Author: Austin Keil
+ *
+ * Solution to Exercise 1-19.
+ *
+ * Write a function reverse(s) that reverses the character string
+ * s. use it to write a program that reverses its input a line at
+ * a time.
+ */
+
 #include <stdio.h>
 #define MAXLINE 1000
 
 int getline2(char line[]); 
 void reverse(char line[]);
 
-// This program reverses its input a line at a time
 int main()
 {
   int len;         

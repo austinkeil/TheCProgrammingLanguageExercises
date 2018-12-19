@@ -1,9 +1,17 @@
+/**
+ * Author: Austin Keil
+ *
+ * Solution to Exercise 1-17.
+ *
+ * Write a program to print all input lines that are longer than
+ * 80 characters.
+ */
+
 #include <stdio.h>
 #define MAXLINE 1000
 
 int getline2(char line[]); 
 
-// This program prints all input lines longer than 80 characters.
 int main()
 {
   int len;         
