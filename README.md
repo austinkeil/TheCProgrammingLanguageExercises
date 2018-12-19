@@ -1,5 +1,5 @@
 # TheCProgrammingLanguageExercises
-Exercises from the C Programming Language by Brian Kernighan and Dennis Ritchie.
+Solutions to exercises from The C Programming Language (2nd Edition) by Brian Kernighan and Dennis Ritchie.
 
 <p align="center">
   <img src="cover.jpg">
